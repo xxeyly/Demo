@@ -1,0 +1,427 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cb5a5724ce60ab4dbc4361c00f6dd6f, type: 3}
+  m_Name: PropItemData
+  m_EditorClassIdentifier: 
+  groupInfos:
+  - propItemGroupInfo:
+    - propTypes: 0
+      display: 1
+    bigIndex: 0
+    smallIndex: 0
+    addPropType: 7
+  - propItemGroupInfo:
+    - propTypes: 0
+      display: 0
+    - propTypes: 1
+      display: 0
+    - propTypes: 2
+      display: 0
+    - propTypes: 3
+      display: 0
+    - propTypes: 4
+      display: 0
+    - propTypes: 5
+      display: 0
+    - propTypes: 6
+      display: 0
+    - propTypes: 7
+      display: 0
+    - propTypes: 8
+      display: 0
+    - propTypes: 9
+      display: 0
+    - propTypes: 10
+      display: 0
+    - propTypes: 11
+      display: 0
+    - propTypes: 12
+      display: 0
+    - propTypes: 13
+      display: 0
+    - propTypes: 14
+      display: 0
+    - propTypes: 15
+      display: 0
+    - propTypes: 16
+      display: 0
+    - propTypes: 17
+      display: 0
+    - propTypes: 18
+      display: 0
+    - propTypes: 19
+      display: 0
+    - propTypes: 20
+      display: 0
+    - propTypes: 21
+      display: 0
+    - propTypes: 22
+      display: 0
+    - propTypes: 23
+      display: 0
+    - propTypes: 24
+      display: 0
+    - propTypes: 25
+      display: 0
+    - propTypes: 26
+      display: 0
+    bigIndex: 0
+    smallIndex: 0
+    addPropType: 0
+  - propItemGroupInfo:
+    - propTypes: 0
+      display: 0
+    - propTypes: 1
+      display: 0
+    - propTypes: 2
+      display: 0
+    - propTypes: 3
+      display: 0
+    - propTypes: 4
+      display: 0
+    - propTypes: 5
+      display: 0
+    - propTypes: 6
+      display: 0
+    - propTypes: 7
+      display: 0
+    - propTypes: 8
+      display: 0
+    - propTypes: 9
+      display: 0
+    - propTypes: 10
+      display: 0
+    - propTypes: 11
+      display: 0
+    - propTypes: 12
+      display: 0
+    - propTypes: 13
+      display: 0
+    - propTypes: 14
+      display: 0
+    - propTypes: 15
+      display: 0
+    - propTypes: 16
+      display: 0
+    - propTypes: 17
+      display: 0
+    - propTypes: 18
+      display: 0
+    - propTypes: 19
+      display: 0
+    - propTypes: 20
+      display: 0
+    - propTypes: 21
+      display: 0
+    - propTypes: 22
+      display: 0
+    - propTypes: 23
+      display: 0
+    - propTypes: 24
+      display: 0
+    - propTypes: 25
+      display: 0
+    - propTypes: 26
+      display: 0
+    bigIndex: 0
+    smallIndex: 0
+    addPropType: 0
+  - propItemGroupInfo:
+    - propTypes: 0
+      display: 0
+    - propTypes: 1
+      display: 0
+    - propTypes: 2
+      display: 0
+    - propTypes: 3
+      display: 0
+    - propTypes: 4
+      display: 0
+    - propTypes: 5
+      display: 0
+    - propTypes: 6
+      display: 0
+    - propTypes: 7
+      display: 0
+    - propTypes: 8
+      display: 0
+    - propTypes: 9
+      display: 0
+    - propTypes: 10
+      display: 0
+    - propTypes: 11
+      display: 0
+    - propTypes: 12
+      display: 0
+    - propTypes: 13
+      display: 0
+    - propTypes: 14
+      display: 0
+    - propTypes: 15
+      display: 0
+    - propTypes: 16
+      display: 0
+    - propTypes: 17
+      display: 0
+    - propTypes: 18
+      display: 0
+    - propTypes: 19
+      display: 0
+    - propTypes: 20
+      display: 0
+    - propTypes: 21
+      display: 0
+    - propTypes: 22
+      display: 0
+    - propTypes: 23
+      display: 0
+    - propTypes: 24
+      display: 0
+    - propTypes: 25
+      display: 0
+    - propTypes: 26
+      display: 0
+    bigIndex: 0
+    smallIndex: 0
+    addPropType: 0
+  - propItemGroupInfo:
+    - propTypes: 0
+      display: 0
+    - propTypes: 1
+      display: 0
+    - propTypes: 2
+      display: 0
+    - propTypes: 3
+      display: 0
+    - propTypes: 4
+      display: 0
+    - propTypes: 5
+      display: 0
+    - propTypes: 6
+      display: 0
+    - propTypes: 7
+      display: 0
+    - propTypes: 8
+      display: 0
+    - propTypes: 9
+      display: 0
+    - propTypes: 10
+      display: 0
+    - propTypes: 11
+      display: 0
+    - propTypes: 12
+      display: 0
+    - propTypes: 13
+      display: 0
+    - propTypes: 14
+      display: 0
+    - propTypes: 15
+      display: 0
+    - propTypes: 16
+      display: 0
+    - propTypes: 17
+      display: 0
+    - propTypes: 18
+      display: 0
+    - propTypes: 19
+      display: 0
+    - propTypes: 20
+      display: 0
+    - propTypes: 21
+      display: 0
+    - propTypes: 22
+      display: 0
+    - propTypes: 23
+      display: 0
+    - propTypes: 24
+      display: 0
+    - propTypes: 25
+      display: 0
+    - propTypes: 26
+      display: 0
+    bigIndex: 0
+    smallIndex: 0
+    addPropType: 0
+  - propItemGroupInfo:
+    - propTypes: 0
+      display: 0
+    - propTypes: 1
+      display: 0
+    - propTypes: 2
+      display: 0
+    - propTypes: 3
+      display: 0
+    - propTypes: 4
+      display: 0
+    - propTypes: 5
+      display: 0
+    - propTypes: 6
+      display: 0
+    - propTypes: 7
+      display: 0
+    - propTypes: 8
+      display: 0
+    - propTypes: 9
+      display: 0
+    - propTypes: 10
+      display: 0
+    - propTypes: 11
+      display: 0
+    - propTypes: 12
+      display: 0
+    - propTypes: 13
+      display: 0
+    - propTypes: 14
+      display: 0
+    - propTypes: 15
+      display: 0
+    - propTypes: 16
+      display: 0
+    - propTypes: 17
+      display: 0
+    - propTypes: 18
+      display: 0
+    - propTypes: 19
+      display: 0
+    - propTypes: 20
+      display: 0
+    - propTypes: 21
+      display: 0
+    - propTypes: 22
+      display: 0
+    - propTypes: 23
+      display: 0
+    - propTypes: 24
+      display: 0
+    - propTypes: 25
+      display: 0
+    - propTypes: 26
+      display: 0
+    bigIndex: 0
+    smallIndex: 0
+    addPropType: 0
+  - propItemGroupInfo:
+    - propTypes: 0
+      display: 0
+    - propTypes: 1
+      display: 0
+    - propTypes: 2
+      display: 0
+    - propTypes: 3
+      display: 0
+    - propTypes: 4
+      display: 0
+    - propTypes: 5
+      display: 0
+    - propTypes: 6
+      display: 0
+    - propTypes: 7
+      display: 0
+    - propTypes: 8
+      display: 0
+    - propTypes: 9
+      display: 0
+    - propTypes: 10
+      display: 0
+    - propTypes: 11
+      display: 0
+    - propTypes: 12
+      display: 0
+    - propTypes: 13
+      display: 0
+    - propTypes: 14
+      display: 0
+    - propTypes: 15
+      display: 0
+    - propTypes: 16
+      display: 0
+    - propTypes: 17
+      display: 0
+    - propTypes: 18
+      display: 0
+    - propTypes: 19
+      display: 0
+    - propTypes: 20
+      display: 0
+    - propTypes: 21
+      display: 0
+    - propTypes: 22
+      display: 0
+    - propTypes: 23
+      display: 0
+    - propTypes: 24
+      display: 0
+    - propTypes: 25
+      display: 0
+    - propTypes: 26
+      display: 0
+    bigIndex: 0
+    smallIndex: 0
+    addPropType: 0
+  - propItemGroupInfo:
+    - propTypes: 0
+      display: 0
+    - propTypes: 1
+      display: 0
+    - propTypes: 2
+      display: 0
+    - propTypes: 3
+      display: 0
+    - propTypes: 4
+      display: 0
+    - propTypes: 5
+      display: 0
+    - propTypes: 6
+      display: 0
+    - propTypes: 7
+      display: 0
+    - propTypes: 8
+      display: 0
+    - propTypes: 9
+      display: 0
+    - propTypes: 10
+      display: 0
+    - propTypes: 11
+      display: 0
+    - propTypes: 12
+      display: 0
+    - propTypes: 13
+      display: 0
+    - propTypes: 14
+      display: 0
+    - propTypes: 15
+      display: 0
+    - propTypes: 16
+      display: 0
+    - propTypes: 17
+      display: 0
+    - propTypes: 18
+      display: 0
+    - propTypes: 19
+      display: 0
+    - propTypes: 20
+      display: 0
+    - propTypes: 21
+      display: 0
+    - propTypes: 22
+      display: 0
+    - propTypes: 23
+      display: 0
+    - propTypes: 24
+      display: 0
+    - propTypes: 25
+      display: 0
+    - propTypes: 26
+      display: 0
+    bigIndex: 0
+    smallIndex: 0
+    addPropType: 0

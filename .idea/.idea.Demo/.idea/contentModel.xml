@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\xxslit\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\xxslit\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Demo.336631368.00" t="ExcludeRecursive" />
+    <e p="E:\Unity\Demo" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Custom" t="Include">
+            <e p="Chest.cs" t="Include" />
+            <e p="ChestItem.cs" t="Include" />
+            <e p="ShowTips.cs" t="Include" />
+          </e>
+        </e>
+        <e p="XxSlitFrame" t="Include">
+          <e p="ScriptsBase" t="Include">
+            <e p="CameraTools" t="Include">
+              <e p="CameraControl.cs" t="Include" />
+            </e>
+            <e p="Dialogue" t="Include">
+              <e p="Dialogue.cs" t="Include" />
+            </e>
+            <e p="Prop" t="Include">
+              <e p="PropItem.cs" t="Include" />
+              <e p="PropManager.cs" t="Include" />
+            </e>
+            <e p="Tips" t="Include">
+              <e p="Tips.cs" t="Include" />
+            </e>
+            <e p="XAnimator" t="Include">
+              <e p="Base" t="Include">
+                <e p="AnimatorControllerManager.cs" t="Include" />
+                <e p="XAnimatorControllerBase.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Tools" t="Include">
+            <e p="ConfigData" t="Include">
+              <e p="AssessmentData.cs" t="Include" />
+              <e p="AudioData.cs" t="Include" />
+              <e p="CameraPosData.cs" t="Include" />
+              <e p="DialogueData.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="AnimatorClipData.cs" t="Include" />
+                <e p="BuildSceneData.cs" t="Include" />
+                <e p="CustomAnimatorClipConfig.cs" t="Include" />
+                <e p="CustomBuildData.cs" t="Include" />
+              </e>
+              <e p="PropItemData.cs" t="Include" />
+              <e p="RecordingAndPlaybackData.cs" t="Include" />
+              <e p="StepInitData.cs" t="Include" />
+              <e p="TipsData.cs" t="Include" />
+              <e p="VersionInfoData.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="ConfigBaseWindowEditor" t="Include">
+                <e p="ConfigBaseWindowEditor.cs" t="Include" />
+                <e p="ConfigLocalBaseWindowEditor.cs" t="Include" />
+                <e p="CustomBaseWindowHierarchy.cs" t="Include" />
+                <e p="WindowBaseEditor.cs" t="Include" />
+              </e>
+              <e p="ConfigSvcEditor" t="Include">
+                <e p="ListenerSvcEditor.cs" t="Include" />
+                <e p="TimeSvcEditor.cs" t="Include" />
+              </e>
+              <e p="CustomEditorPanel" t="Include">
+                <e p="CustomAnimator.cs" t="Include" />
+                <e p="CustomAssessment.cs" t="Include" />
+                <e p="CustomAudio.cs" t="Include" />
+                <e p="CustomBaseEditorWindow.cs" t="Include" />
+                <e p="CustomBuild.cs" t="Include" />
+                <e p="CustomBuildScene.cs" t="Include" />
+                <e p="CustomCameraPos.cs" t="Include" />
+                <e p="CustomDialog.cs" t="Include" />
+                <e p="CustomFunctionPackage.cs" t="Include" />
+                <e p="CustomPropItemData.cs" t="Include" />
+                <e p="CustomStepInitData.cs" t="Include" />
+                <e p="CustomTip.cs" t="Include" />
+              </e>
+              <e p="OnEditorStartup.cs" t="Include" />
+            </e>
+            <e p="GameRoot.cs" t="Include" />
+            <e p="GameRootStart.cs" t="Include" />
+            <e p="General" t="Include">
+              <e p="General.cs" t="Include" />
+            </e>
+            <e p="IStartSingleton.cs" t="Include" />
+            <e p="ObjectPoolBase.cs" t="Include" />
+            <e p="SceneBuildType.cs" t="Include" />
+            <e p="Singleton.cs" t="Include" />
+            <e p="StartSingleton.cs" t="Include" />
+            <e p="Svc" t="Include">
+              <e p="AudioSvc.cs" t="Include" />
+              <e p="BaseSvc" t="Include">
+                <e p="ISvc.cs" t="Include" />
+                <e p="SvcBase.cs" t="Include" />
+              </e>
+              <e p="DataSvc.cs" t="Include" />
+              <e p="HttpSvc.cs" t="Include" />
+              <e p="ListenerSvc.cs" t="Include" />
+              <e p="MouseSvc.cs" t="Include" />
+              <e p="PersistentDataSvc.cs" t="Include" />
+              <e p="RecordingAndPlaybackSvc.cs" t="Include" />
+              <e p="ResSvc.cs" t="Include" />
+              <e p="SceneSvc.cs" t="Include" />
+              <e p="TimeSvc.cs" t="Include" />
+              <e p="ViewSvc.cs" t="Include" />
+            </e>
+          </e>
+          <e p="View" t="Include">
+            <e p="AutoBindBaseWindowUIData.cs" t="Include" />
+            <e p="AutoBindLocalBaseWindowUIData.cs" t="Include" />
+            <e p="BaseWindow.cs" t="Include" />
+            <e p="BindUiType.cs" t="Include" />
+            <e p="GenerationBaseWindow.cs" t="Include" />
+            <e p="InitView" t="Include">
+              <e p="EntryPrompt.cs" t="Include" />
+              <e p="ExcessiveScene.cs" t="Include" />
+              <e p="QualitySetting.cs" t="Include" />
+              <e p="SceneJumpMask.cs" t="Include" />
+              <e p="SpeedController.cs" t="Include" />
+              <e p="Title.cs" t="Include" />
+              <e p="Watermark.cs" t="Include" />
+            </e>
+            <e p="LocalBaseWindow.cs" t="Include" />
+            <e p="LocalUIBaseWindow.cs" t="Include" />
+            <e p="SingletonBaseWindow.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Demo.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

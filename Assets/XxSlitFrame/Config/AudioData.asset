@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb804097c33049679303863b26dc1a9b, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: 
+  audioDataInfos:
+  - audioType: 1
+    dialogueAudioClip: {fileID: 0}
+  - audioType: 2
+    dialogueAudioClip: {fileID: 8300000, guid: 76c8432c28ffbbc45a7f4824490fbd47, type: 3}
+  - audioType: 3
+    dialogueAudioClip: {fileID: 8300000, guid: 5797632c8227a3b4d9f1271de025f1cc, type: 3}
+  - audioType: 4
+    dialogueAudioClip: {fileID: 8300000, guid: 2740220163070f24e9490ed92c260d23, type: 3}
+  - audioType: 5
+    dialogueAudioClip: {fileID: 8300000, guid: a513f899faf0463478ab291b15bd8871, type: 3}
+  - audioType: 6
+    dialogueAudioClip: {fileID: 8300000, guid: 85fd6b27dc0111d4ab7777929513c2ce, type: 3}
+  - audioType: 7
+    dialogueAudioClip: {fileID: 8300000, guid: 7b1d02d85a026a440902f7ca8edf8f9b, type: 3}
+  - audioType: 8
+    dialogueAudioClip: {fileID: 8300000, guid: 7bf4fe01386ab454fbe0b91ae4f83d33, type: 3}
+  - audioType: 9
+    dialogueAudioClip: {fileID: 8300000, guid: 159eae052ddf4b04f90f67196c561a02, type: 3}
+  - audioType: 10
+    dialogueAudioClip: {fileID: 8300000, guid: bde35e935aa1dbf4a82b6620a7f15274, type: 3}
+  - audioType: 11
+    dialogueAudioClip: {fileID: 8300000, guid: 97e962d33792f1f47af0b97d63be7223, type: 3}
+  - audioType: 12
+    dialogueAudioClip: {fileID: 8300000, guid: a7814d3375dde394f877f41f161ceac7, type: 3}
+  - audioType: 13
+    dialogueAudioClip: {fileID: 8300000, guid: 1c270c42f9debe8489dc35b0d8807af9, type: 3}
+  - audioType: 14
+    dialogueAudioClip: {fileID: 8300000, guid: af3b9a180a3b19b4fa35202ac041fe48, type: 3}
+  - audioType: 15
+    dialogueAudioClip: {fileID: 8300000, guid: 769a4b93757617b4db312f2fc50fea5b, type: 3}
+  - audioType: 16
+    dialogueAudioClip: {fileID: 8300000, guid: ebb3354e07d511f4d819aa926f980a04, type: 3}
+  - audioType: 17
+    dialogueAudioClip: {fileID: 8300000, guid: 10e954c68c86c5241922a943905812c0, type: 3}

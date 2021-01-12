@@ -1,0 +1,984 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e70a62b90105ea4e925b11cb205e715, type: 3}
+  m_Name: BuildSceneData
+  m_EditorClassIdentifier: 
+  assetBundlePath: Assets/AssetsAssetBundleScenePathTwo
+  buildSceneDataInfo:
+  - sceneObj: {fileID: 102900000, guid: fd0ece64f75eb0f498e32c0e89bd8387, type: 3}
+    sceneObjMd5: 4e2d7411d7237fe5fc570c27a9881372
+    sceneBuildPath:
+    - "Assets/XxSlitFrame/View/UI/\u9000\u51FA.png"
+    - Assets/XxSlitFrame/Audio/TipsPopup.mp3
+    - Assets/XxSlitFrame/Audio/NextStep.mp3
+    - "Assets/XxSlitFrame/View/UI/\u8D28\u91CF/\u8D28\u91CF-\u4F4E-1.png"
+    - "Assets/XxSlitFrame/View/UI/\u901F\u5EA6/\u901F\u5EA6-\u8FDB\u5EA6\u6761.png"
+    - "Assets/XxSlitFrame/View/UI/20\u7248\u5347\u7EA7\u6C34\u5370.png"
+    - "Assets/XxSlitFrame/View/UI/\u8D28\u91CF/\u8D28\u91CF-\u4E2D-1.png"
+    - Assets/XxSlitFrame/Audio/Warning.mp3
+    - Assets/Scenes/PreparationRoom/ReflectionProbe-0.exr
+    - Assets/XxSlitFrame/Prefabs/GameRootCanvas/GameRootCanvas.prefab
+    - "Assets/XxSlitFrame/View/UI/\u6D4E\u5357\u4E2D\u98DE\u79D1\u6280\u6709\u9650\u516C\u53F8\xB7\u7814\u53D1.png"
+    - Assets/Scenes/PreparationRoom/Lightmap-0_comp_light.exr
+    - Assets/XxSlitFrame/Audio/DisplayObjects.mp3
+    - Assets/Scenes/PreparationRoom.unity
+    - Assets/XxSlitFrame/Audio/Click.mp3
+    - "Assets/XxSlitFrame/View/UI/\u8D28\u91CF/\u8D28\u91CF-\u6309\u94AE.png"
+    - Assets/XxSlitFrame/Audio/Redo.mp3
+    - "Assets/XxSlitFrame/View/UI/\u786E\u5B9A\u9000\u51FA\u63D0\u793A\u6846/\u63D0\u793A\u6846\u5E95.png"
+    - "Assets/XxSlitFrame/View/UI/\u8D28\u91CF/\u8D28\u91CF-\u9AD8-2.png"
+    - Assets/XxSlitFrame/Audio/CloseBackGround.mp3
+    - "Assets/XxSlitFrame/View/UI/\u8D28\u91CF/\u8D28\u91CF-\u9AD8-1.png"
+    - Assets/Scenes/PreparationRoom/ReflectionProbe-1.exr
+    - "Assets/XxSlitFrame/View/UI/\u8D28\u91CF/\u8D28\u91CF-\u4F4E-2.png"
+    - Assets/XxSlitFrame/Audio/Sure.mp3
+    - "Assets/XxSlitFrame/View/UI/\u6D4F\u89C8\u5668\u53CA\u5F00\u542F\u97F3\u9891\u63D0\u793A.png"
+    - "Assets/XxSlitFrame/View/UI/\u786E\u5B9A\u9000\u51FA\u63D0\u793A\u6846/\u6309\u94AE.png"
+    - Assets/XxSlitFrame/Audio/Close.mp3
+    - Assets/XxSlitFrame/Prefabs/Frame/GameRoot.prefab
+    - Assets/Scenes/PreparationRoom/Lightmap-0_comp_dir.png
+    - Assets/XxSlitFrame/Audio/Background.mp3
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u5F00\u59CB\u9875-\u9875\u5934.png"
+    - Assets/XxSlitFrame/Audio/EnterScene.mp3
+    - Assets/XxSlitFrame/Audio/TipsError.mp3
+    - "Assets/XxSlitFrame/View/UI/\u8D28\u91CF/\u8D28\u91CF-\u4E2D-2.png"
+    - "Assets/XxSlitFrame/View/UI/\u901F\u5EA6/\u901F\u5EA6-\u6ED1\u94AE.png"
+    - "Assets/XxSlitFrame/View/UI/\u901F\u5EA6/\u901F\u5EA6-\u5E95\u6846.png"
+    - "Assets/XxSlitFrame/View/UI/\u9759\u97F3.png"
+    - "Assets/XxSlitFrame/View/UI/\u8D28\u91CF/\u8D28\u91CF-\u5E95\u6846.png"
+    - "Assets/XxSlitFrame/View/UI/\u58F0\u97F3.png"
+    sceneBuildPathMd5:
+    - 2699a9ca304f8de61f3cd69512e7654e
+    - c623988cce80b1aceecf2b6ee1a4daef
+    - 3e61295bddd1a04d26d0603564bd09c4
+    - f4d2e89cb9f1cb8afe1fc5011586e6a0
+    - 36a81942719a63712e414ba7b558d530
+    - 4ae73af26ecb8d24ea0b37de3b376ecd
+    - 92220f07f38b038f5ed921a81a9094b0
+    - 97f16de9fe82583a9970edd150970c2e
+    - 8256d5390cba2649817fed2365296ae0
+    - 395f614f699bbbe94213fe46c44bb7ad
+    - ae8429863bbaa434461b35d377bf9ad2
+    - 0b78a8c950d8ae7857c098dd4206cdb0
+    - 2668f26eefe15e12daa6eedc87a10c1f
+    - 4e2d7411d7237fe5fc570c27a9881372
+    - 978c7fd517031dec202cb290eba3aae1
+    - 2d053a1ef0bb75c71f817e19ea7b27da
+    - fae393d96b19d1a76b4ce453aa2c9733
+    - ff4a8e6223b690771e854b8f83c76f2f
+    - e10ae4607572bd58a88183ba41ea5504
+    - 987cd6fc4ada4dc27b5bfd215a8ba507
+    - e42d063c9dd05cb458dd3b0a4a06045f
+    - 0a041ed3c68e79f88b4c81d873ef23bb
+    - 44d8e5501c4e62cfd0635ea3d35dfbf9
+    - 2a7d0e96b6a6dea070e09f7a745739fe
+    - 5d25f840ee199be7cb7b7374f2a3f597
+    - 29083aaf00ec1147ca4d79979238e3c5
+    - e48c51a0a6609ec1be294f95c1c9dec1
+    - f53f04b5306aa0d2c8475f9ea063bd5c
+    - 3335f65f49094ef8c7ea5d4ca4f5a41d
+    - 928e1e3aa14aa2fdb06c651e061776c8
+    - f40be8299fa7a17d1102b147f1ed3951
+    - c732dbfc93972fe75228d07537a3eb7b
+    - 0d6b56b1cce489c0c0f85324c9b15468
+    - eeae20ca1e2ff7815f0faf34d8ee027b
+    - 655005350ecab3d92c8125993a35bbdc
+    - b731f0eab64b5a079b7398840706d800
+    - c0b9cad7e86000651b5fbffe8c7af26a
+    - 571303541a3b2aa0458651f6a49991de
+    - c9a4c591b197d65073b8394e9695ac62
+    envObj: {fileID: 2188790215529828897, guid: d2e960d02f1960f4dae1f81670083f13,
+      type: 3}
+    envObjMd5: 98dbbfe77de458c44ce3503ea7d8f065
+    envObjBuildPath:
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/guimen_c.mat
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/blinn13.mat
+    - Assets/Prefabs/Scene/PreparationRoom/PreparationRoomEnv.prefab
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/lambert4.mat
+    - Assets/SHX/ZhunBeiShi/Texture/YaoPing.jpg
+    - Assets/SHX/BingFang01/Shaders/PBR_HD_Lit.shader
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/buxiugang.mat
+    - Packages/com.unity.postprocessing/PostProcessing/Gizmos/PostProcessLayer.png
+    - Assets/SHX/ZhunBeiShi/Texture/001.jpg
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/YaoPing1.mat
+    - Assets/SHX/ZhunBeiShi/Texture/19766807_211548528000_2.jpg
+    - Assets/SHX/ZhunBeiShi/Texture/YaoHe.jpg
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/zhiliaoshi_1.fbx
+    - Assets/SHX/ZhunBeiShi/Texture/guimen_c.jpg
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/QiangMian.mat
+    - Assets/SHX/ZhunBeiShi/Texture/Men_GuiZi.jpg
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/blinn14.mat
+    - Assets/SHX/ZhunBeiShi/Texture/QiangMian.jpg
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/guimen1.mat
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/DiMIan.mat
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/YaoPing.mat
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/BoLi.mat
+    - Assets/SHX/ZhunBeiShi/Texture/DiMIan.jpg
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/YaoXiang.mat
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/Men_GuiZi.mat
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/huanjing.mat
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/YaoHe.mat
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/blinn12.mat
+    - Assets/SHX/ZhunBeiShi/Texture/buxiugang.jpg
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/BoLiPing.mat
+    - Assets/SHX/ZhunBeiShi/Model/ZhiLiaoShi/moxing/Materials/GuiZiBoLi.mat
+    envObjBuildPathMd5:
+    - b5cb6ade37e5722670cfa65c722402ec
+    - 062f3b887225b86456cb696cb1c2096b
+    - 98dbbfe77de458c44ce3503ea7d8f065
+    - c78062311b636f3d37ebeda1edb1a11c
+    - 323ae22c1747cc8c23b197b50ea35b37
+    - 5afbf62cc6e34eec56feb5938c547cea
+    - 4938c36a0d856e161068b5d28d2a11e8
+    - a6c638659c21fc42f5b64ad0c2fe25ca
+    - adfaa5b7298185e5e01ddf21ffccfd4d
+    - 6be3a612c6ea713b563bdb64f2a885ee
+    - 96ebd698f29f241fe8397133821d968d
+    - 113ff1e50ce2521ced0ea658f738e982
+    - 2d62854742f17c65d93574f26dbec0c1
+    - 5ea235e1ce6854f56aca5d6c106591bb
+    - a79ce7c487179d720738a228de5ef4f2
+    - 3f667a89e63dd0b0d3e1a5988e8c95b3
+    - a00d56afc3ab6529c132f082e4ef765c
+    - 85fe14d2368a556c561388580b1c5ab3
+    - 6eb5b081c645bea08a30d3620ef47dc8
+    - 1dec35185cdbb81ed835a553e2c32d6b
+    - a4a0d0de9d9b9e5b9c6e2af4409b00c7
+    - fa12b544714ebbb56b5b12191d28b092
+    - cc27ac228b127a75e972ccaca392ba60
+    - d1d7bd1b48d4714553c19a838e57bd64
+    - a112f35d52fe3f25dbf41fa229afb5bb
+    - 675168ba6ff3537f8f026faea8eefe99
+    - ce7df9c17848a1575d7679036889b33e
+    - 8a460362aa7a8dcf5fbbc8056a330745
+    - b96e59e3d81f2ae095971898118651ea
+    - 4959fc8360169e716eeeb8cadef96feb
+    - 8eebaebe10a74298d94975cc7d7be74c
+    propObj: {fileID: 6830714338507425521, guid: 31150425495ee384aaa8715371a87d72,
+      type: 3}
+    propObjMd5: 9c676de89e481f4f2ed293d7c819faa2
+    propObjBuildPath:
+    - Assets/Model/Materials/A_BoLi1.mat
+    - Assets/Model/DaoJu.fbx
+    - "Assets/Model/PreparationRoom/\u624B\u5957/MOV_DaiShouTao_ShouTao.fbx"
+    - Assets/SHX/BingFang01/Textures/Env/Glove_Mat_Normal.tif
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u5FC3\u7535\u76D1\u62A4\u8BBE\u5907.png"
+    - Assets/SHX/BingFang01/Meshes/Env/YiLiaoChuWuGui.fbx
+    - Assets/Model/Materials/A_TouMing.mat
+    - Assets/SHX/BingFang01/Textures/Env/YiLiaoChuWuGui_Mat_Normal.tif
+    - Assets/SHX/BingFang01/Textures/Env/Air_Filter_Mat_Normal.tif
+    - Assets/SHX/BingFang01/Textures/Env/Wash_Basin_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Textures/Env/Wash_Basin_Mat_MaskMap.tif
+    - Assets/Model/Materials/BuXiuGang.mat
+    - Assets/Model/DaoJu_TieTu/DaiZi01.jpg
+    - Assets/SHX/BingFang01/Textures/Env/Desk_Desk_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/Desk_Desk_Mat_BaseColor.tif
+    - Assets/Model/Materials/xdjhy_cz.mat
+    - Assets/Model/DaoJu_TieTu/XiShouYe.jpg
+    - Assets/Model/Materials/xiaobujian.mat
+    - Assets/SHX/BingFang01/Textures/Env/TopLight_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Corner_Mat.mat
+    - Assets/Model/DaoJu_TieTu/NieZi_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Textures/Env/Modern_Chair_Mat_BaseColor.tif
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u52A8\u753B/Materials/ChuanCiBao_BaoZhuang_Mat_BaseColor.mat"
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Modern_Chair_Mat.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/No Name.mat
+    - Assets/SHX/BingFang01/Textures/Env/Corner_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/Sofa_Low_Sofa_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/Bedside_Cupboard_Bedside_Cupboard_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Textures/Env/Sofa_Low_Sofa_Mat_Normal.tif
+    - Assets/Model/DaoJu_TieTu/xiaobujian.jpg
+    - "Assets/SHX/BingFang01/Textures/Env/Tiles_\u767D\u74F7\u7816_basecolor.tif"
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Curtain_Mat.mat
+    - Assets/SHX/BingFang01/Textures/Env/Medical_System_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Door_Bath_Mat.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Wall_Wood_Background_Mat.mat
+    - Assets/Model/Materials/Shui1.mat
+    - "Assets/SHX/BingFang01/Textures/Env/Tiles_\u767D\u74F7\u7816_MaskMap.tif"
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Desk_Mat.mat
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u52A8\u753B/\u6D17\u624B\u9053\u5177\u6A21\u578B\u52A0\u52A8\u753B.fbx"
+    - "Assets/SHX/BingFang01/Textures/Env/Tiles_\u82B1\u74F7\u7816_basecolor.tif"
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Skirt_Mat.mat
+    - Assets/SHX/BingFang01/Textures/Env/Wall_Light_Wall_Light_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/MainLight_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/TopLight_Mat_BaseColor.tif
+    - Assets/AnimatorController/MaskAnim.controller
+    - Assets/Model/Materials/A_GanSuYe.mat
+    - Assets/SHX/BingFang01/Textures/Env/TV_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/TV_Mat.mat
+    - Assets/Model/DaoJu_TieTu/DaoGuanYanSeBianHua01.png
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u76AE\u80A4\u6269\u5F20\u5668.png"
+    - "Assets/Model/PreparationRoom/\u9053\u5177\u8F66/Materials/ZhiLiaoChe2_c.mat"
+    - Assets/SHX/BingFang01/Textures/Env/Air_Filter_Mat_MaskMap.tif
+    - Assets/Model/Skin/Material/kouzao/KouZhao_Mat.mat
+    - Assets/Model/Materials/NieZi_Mat_BaseColor.mat
+    - Assets/SHX/BingFang01/Textures/Env/Bedside_Cupboard_Bedside_Cupboard_Mat_Normal.tif
+    - Assets/Model/Materials/DianDing_Mat_BaseColor.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Sofa_Mat.mat
+    - Assets/Prefabs/Scene/PreparationRoom/PreparationRoomProp.prefab
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Water_Mat.mat
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u624B\u5957.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u7A7F\u523A\u9488.png"
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/bingchuang1_Mat.mat
+    - Assets/SHX/BingFang01/Textures/Tools/ChuanCiBao_BaoZhuang_Mat_BaseColor.tif
+    - Assets/Model/Materials/KongJin_c.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Vase_Mat.mat
+    - "Assets/Model/PreparationRoom/\u9053\u5177\u8F66/zhiliaoche04.fbx"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u751F\u7406\u76D0\u6C34.png"
+    - Assets/SHX/BingFang01/Meshes/Tools/Materials/chuancibao.mat
+    - Assets/AnimatorController/GloveAnim.controller
+    - "Assets/SHX/BingFang01/Textures/Env/Tiles_\u82B1\u74F7\u7816_MaskMap.tif"
+    - Assets/SHX/BingFang01/Textures/Env/Glove_Mat_BaseColor.tif
+    - Assets/Model/Materials/Glove_Mat_BaseColor.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Air_Filter_Mat.mat
+    - Assets/Model/DaoJu_TieTu/DaoGuanDeng_c.jpg
+    - Assets/SHX/BingFang01/Prefabs/Wash_Bar.prefab
+    - Assets/SHX/BingFang01/Textures/Env/Sofa_Low_Sofa_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Bedside_Cupboard_Mat.mat
+    - Assets/AnimatorController/WashBasin.controller
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u8F93\u6DB2\u5668.png"
+    - Assets/Model/DaoJu_TieTu/XiaoDianZhen_c.jpg
+    - Assets/AnimatorController/Glove_MaskAnim.controller
+    - "Assets/SHX/BingFang01/Textures/Env/Tiles_\u767D\u74F7\u7816_normal_OGL.tif"
+    - Assets/Model/Materials/ChuanCiZhenLan.mat
+    - Assets/SHX/BingFang01/Textures/Env/Wall_Cabinet_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/Wall_Light_Wall_Light_Mat_Normal.tif
+    - Assets/Model/DaoJu_TieTu/DianDing_Mat_BaseColor.tif
+    - "Assets/SHX/BingFang01/Textures/Env/Tiles_\u82B1\u74F7\u7816_normal_OGL.tif"
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Default.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Main_Door_Mat.mat
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u7EB1\u5E03.png"
+    - Assets/SHX/BingFang01/Textures/Env/Wood_Chair_Mat_Normal.tif
+    - Assets/Model/Materials/A_ZhenGuan.mat
+    - Assets/SHX/BingFang01/Textures/Env/Wash_Desk_BaseColor.tif
+    - Assets/Model/Materials/ZhuSheQiBai.mat
+    - Assets/Model/Materials/ShengLiYanShui_c.mat
+    - Assets/Model/Materials/HeiXian1.mat
+    - Assets/Model/Materials/XiaoDianZhen_c.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Main_Windows_Mat.mat
+    - "Assets/Model/PreparationRoom/\u9053\u5177\u8F66/Materials/XiShouYejpg.mat"
+    - Assets/SHX/BingFang01/Textures/Env/TV_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Textures/Env/MainLight_Mat_BaseColor.tif
+    - "Assets/Model/PreparationRoom/\u53E3\u7F69/MOV_DaiKouZhao_KouZhao.fbx"
+    - Assets/SHX/BingFang01/Textures/Env/Modern_Chair_Mat_Normal.tif
+    - Assets/SHX/BingFang01/Textures/Env/Wall_Cabinet_Mat_Normal.tif
+    - Assets/SHX/BingFang01/Textures/Env/Door_Bath_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/Wall_Cabinet_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Textures/Env/Wood_02_baseColor.tif
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/YiLiaoChuWuGui_Mat.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Medical_System_Mat.mat
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u52A8\u753B/Materials/XiShouYePP.mat"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u6D88\u6BD2\u5237.png"
+    - Assets/Model/DaoJu_TieTu/ShuYeQi.jpg
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u954A\u5B50.png"
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Plastic_Pipe_Mat.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Wall_Cabinet_Mat.mat
+    - Assets/SHX/BingFang01/Textures/Env/MainLight_Mat_Emissive.tif
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u6CE8\u5C04\u5668.png"
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u52A8\u753B/Materials/ShuiPP.mat"
+    - Assets/SHX/BingFang01/Shaders/PBR_Standard_DF.shader
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Out_Mat.mat
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/0.5\uFF05\u7898\u4F0F.png"
+    - Assets/SHX/BingFang01/Textures/Env/Wood_Chair_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/Painting_Mat_BaseColor.tif
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u4E2D\u5FC3\u9759\u8109\u5BFC\u7BA1\u7A7F\u523A\u5305.png"
+    - Assets/Model/Materials/DaiZi01.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Painting_Mat.mat
+    - Assets/SHX/BingFang01/Textures/Env/Main_Door_Main_Door_Mat_Normal.tif
+    - Assets/SHX/BingFang01/Textures/Env/Air_Filter_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Textures/Env/Main_Door_Main_Door_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/Corner_Mat_Emissive.tif
+    - Assets/Model/Materials/ShouTaoDai_c.mat
+    - Assets/Model/Materials/ShuYeQi.mat
+    - Assets/Model/DaoJu_TieTu/ShouTaoDai_c.jpg
+    - Assets/SHX/BingFang01/Textures/Env/Painting_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Wash_Desk.mat
+    - Assets/SHX/BingFang01/Shaders/PBR_HD_DF.shader
+    - Assets/SHX/BingFang01/Textures/Env/Modern_Chair_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/TV_Mat_Normal.tif
+    - Assets/SHX/BingFang01/Textures/Tools/chuancibao_c.jpg
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Wood_Chair_Mat.mat
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u5B54\u5DFE.png"
+    - Assets/SHX/BingFang01/Textures/Env/bingchuang_c.jpg
+    - Assets/SHX/BingFang01/Textures/Env/Bedside_Cupboard_Bedside_Cupboard_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/Wash_Desk_MaskMap.tif
+    - Assets/Model/Materials/Start.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Glass_Mat.mat
+    - Assets/Model/Materials/DaoGuanDeng_c.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Floor2_Mat.mat
+    - Assets/Model/DaoJu_TieTu/ZhiLiaoChe2_c.jpg
+    - Assets/SHX/BingFang01/Textures/Env/Wall_Light_Wall_Light_Mat_Emissive.tif
+    - "Assets/Model/PreparationRoom/\u624B\u5957\u53E3\u7F69/MOV_DaiShouTao_KouZhao.fbx"
+    - Assets/Model/DaoJu_TieTu/KongJin_c.png
+    - Assets/SHX/BingFang01/Textures/Env/Desk_Desk_Mat_Normal.tif
+    - Assets/SHX/BingFang01/Textures/Env/Medical_System_Mat_Normal.tif
+    - Assets/SHX/BingFang01/Textures/Env/TopLight_Mat_Emissive.tif
+    - Assets/Model/Materials/ZhuSheQiHei.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Wall_Mat.mat
+    - Assets/Model/Materials/ZhuSheQi_Base_Color.mat
+    - Assets/SHX/BingFang01/Textures/Env/Medical_System_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/Wash_Basin_Mat_Normal.tif
+    - Assets/SHX/BingFang01/Textures/Env/Main_Door_Main_Door_Mat_BaseColor.tif
+    - Assets/Model/DaoJu_TieTu/xdjhy_cz.jpg
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Floor_Mat.mat
+    - Assets/Model/Materials/A_LiuZhiZhen1.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/TopLight_Mat.mat
+    - Assets/SHX/BingFang01/Textures/Env/YiLiaoChuWuGui_Mat_MaskMap.tif
+    - Assets/SHX/BingFang01/Textures/Env/Wood_Chair_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Meshes/Env/BingFang.fbx
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Wash_Basin_Mat.mat
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/MainLight_Mat.mat
+    - Assets/Model/Materials/xian.mat
+    - Assets/Model/Materials/Xue.mat
+    - Assets/SHX/BingFang01/Textures/Env/YiLiaoChuWuGui_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Textures/Env/Door_Bath_BaseColor.tif
+    - Assets/SHX/BingFang01/Shaders/PBR_Standard.shader
+    - Assets/Model/DaoJu_TieTu/ShengLiYanShui_c.png
+    - Assets/Model/Materials/zhusheqi.mat
+    - Assets/SHX/BingFang01/Textures/Env/Painting_Mat_Normal.tif
+    - Assets/SHX/BingFang01/Textures/Env/Corner_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Textures/Env/Wall_Light_Wall_Light_Mat_BaseColor.tif
+    - Assets/SHX/BingFang01/Shaders/PBR_HD.shader
+    - Assets/SHX/BingFang01/Textures/Env/Door_Bath_Normal.tif
+    - Assets/SHX/BingFang01/Meshes/Env/Materials/Wall_Light_Mat.mat
+    - Assets/Model/DaoJu_TieTu/ZhuSheQi_Base_Color.jpg
+    - Assets/SHX/BingFang01/Textures/Env/Wash_Desk_Normal.tif
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u52A8\u753B/Materials/Wash_Basin_Mat.mat"
+    - Assets/Model/Materials/A_ZhenGuan1.mat
+    - Assets/Model/DaoJu_TieTu/zhusheqi.png
+    propObjBuildPathMd5:
+    - e2d6882f368b8788a20b6e3afd6cb461
+    - 29e0cef5d7d11ae003822365d1f99ba1
+    - 18250dc7e36ea6ffa7a64af062e58fc2
+    - 54bcd142cf0c4c89bb55a67d34b8bd98
+    - 5f7c51bfcadcbe807a67d16f142315df
+    - c602040053667c321f6a3700e49e759f
+    - b34d0468ba8f6dc28f83c309799e3d05
+    - 2e7583a4cd33a2514ea95f5c3d2ce59d
+    - 9891ac53b15d79310f9867e88eca4515
+    - c67330f55bc9fea0f781a2f7909eaef9
+    - cabbbd50bbd73a1fd5c0aadfb3d8f39b
+    - 46031de96990489bb4afb779396690d7
+    - 6769a907cc45d4e1f1ad112aec830057
+    - 25288115e63247b54a319f03f6e3bfb2
+    - 3ffb28deff02ac0995ee14f51cc67e29
+    - e0e13e5e3d8a6063c35f09f981d3b815
+    - c670efbcee16118fcd6316e68e917ad0
+    - d5b4a336c34712d3f86e580726048097
+    - 0198ba4070d65d1eefd81a0d3f764f1c
+    - 423ac6eb3aae4fe8e62d0eb12bb83d83
+    - 278a2d71e698b6134e6d37140b1be49e
+    - 1eab19ef4f512a9f7ec3db4e29da6792
+    - 37d3ee7d4af9e86aad2ce38c16709845
+    - f0664a2376fab4f2693c977c658231f7
+    - ecf99a12148029642f1c95c5bf477768
+    - 1f35f95f3a0fa31b9862242872000b5b
+    - fd1bf7a643f219d5126373465a8737cb
+    - 070b0b93ea18a4d0e36a105ef4a4e173
+    - 7d8bb53cd8296b1f2581cff2f79bf152
+    - 7ff4eb61fccc44e92f9f855786865a9d
+    - 22fde1bc09e559881788159f270bd406
+    - c73d2f782dd5282147a271e9af71b911
+    - 8c0f216feca2ba39dc44a6f1587cd618
+    - 475ea92a04272912238c1413dab6019b
+    - 5a28c832392cafe697bb73b7546ec9ac
+    - 851090f522703f3404dca9e9cc8c3d02
+    - ec9eaf20022c8502c503e3d02d3f98d9
+    - d5025ea01fcbcfea33d38b221acb3e12
+    - daadb04c4fd9da842fcad79f87d6d8cd
+    - 1a9949472c9b1ebfa51c53eaa6ee1917
+    - 205b100214f6de264d9d156f0243370a
+    - 6fab84e6ca6ad85d255ebd61c4fca341
+    - c972156116214cb3eac7381e6020cedf
+    - a508ab2b88fc223aa0fb3307d6987d2a
+    - f97d1b98e39c3479f08ba82e9d0e1250
+    - 8dee0ae477645eb52e6367e814cd576b
+    - 461a1ab06c87e0957a12acfb53eede98
+    - 08a6e8f51a5cfe62525c89a30d0f9b99
+    - efc930ab2a00ef6b86c2e3123c014613
+    - 136dccceadc3ec0c8105088d7f997c52
+    - 9ad529e87bba35ac6a773c886b60089f
+    - 63795f5b08980d03517b069884841c0c
+    - 284b549050f99f85b9b5c62d971579c0
+    - ce9ed9716d15c44e466b8b3c16b7f4cd
+    - 37871c83aeddc4b087c471cc0f9be02f
+    - 38d438c3c885fca4c0cf48252fb821a4
+    - 2ebe0d390f09ce7e9816c40a99f0f8d3
+    - 9c676de89e481f4f2ed293d7c819faa2
+    - 0abb8901cc68502a02da236892848e60
+    - bc7f8047142e49ef82d774c93c145242
+    - f373e803eb33340dac733dc18dfae3b7
+    - ec7457fc52decd7baa4e45803fa3084e
+    - 9c771ac45289bd44c44c1123dcf3755d
+    - 4701d806c192a4089d187b24df960b3d
+    - 7947e17aec75ef77b45b8f53006656ae
+    - 99b0e30d3fe2515f9166aed5e87024fe
+    - ac0477cb2721e4b72cc8d928bf7e14aa
+    - 4a92a61b5e209c28ccb4e6474de376df
+    - d7f5029490985bca3797baed9096972b
+    - a75d2e0daccbd450ca2488fadc53af57
+    - 872f76d0bd79324bab96811f8a911f6c
+    - c2fab4961af5ba84dc459a7ef1e2a7bf
+    - 83f3ea4e0eb5510c5d93c052b143dd11
+    - d833108108e1c1d9d1ab069f2b8940d0
+    - a2996b2e034ae0d2ecc0f295e73cca93
+    - a2063151efd84042d440bfb6654d2e5b
+    - 035aed5929005f59e39461cbfb0a5e14
+    - ed2981de474fa334791e22f2d4e36037
+    - a8dc099cf12ee75bc9b1efa3ec6ee07f
+    - 22f2d125405b1285a290431cead7473d
+    - 3f3ef56cb27a2b3aa4bbbcdfdf390bd8
+    - 0583930c5dadc1ca0d09cc372d040952
+    - 13720fce3c3df281ccd47659302a32af
+    - 0e9bc127271ffb94670bb722c5747dae
+    - 6ebcac1daa72dd848876b8c437ef9d5d
+    - 2902f36e50efbf3a75df78a23bcb329a
+    - d28049b05d6d9f04ff5d2c9a9ae862ad
+    - 5659d05211872b24a046ed5b048d5413
+    - 7b053714136e5db992b7f9b5f89f80b0
+    - 7a8b6056ceb2ed89a3908c030cb68992
+    - 9891ac53b15d79310f9867e88eca4515
+    - 429aefbab3b2d2e2bfbd3bd50c53e646
+    - aa12d107b15174d118985ae84646e4ad
+    - e0c94c198162624b00848b96989297d7
+    - f7799fd0008d9ae102d93f5088df05dd
+    - 1d9d1b122f347662357fc268ba911eb2
+    - d64b1051117cca4b803d9376722bbf45
+    - e2939d105e2db67bf962a3750df6e871
+    - 5d824d278e8b2fa820fe4a4d2a571d1f
+    - 1f0df40129053e6c479532cc5e180a1b
+    - 802a7d4e5cabcc9183769b85afad3db7
+    - 92fb1279d58e21083f0a4d6ea7829be4
+    - 2159ca8834f81af1ec86a12a7baf6062
+    - 5fe4e12530f678e78c213542480e663a
+    - 5a3f8d0179235dcd9184cd5dce47b1f8
+    - c2f770b47865a7f9a3c010d955533eb0
+    - ea5dd53cc80422914240b88c1a4679a9
+    - 17e573cc7b27d0c11a880b8c7bde6be3
+    - 3e8928fd87b4549950e343c2fd2484c4
+    - 5088d7aa4e41e5007929c58eeed295cf
+    - 14b9fa6d26ea87e4a085204953d4ac23
+    - 62bed9ca7f561f7e8ee9cd7ae7290835
+    - 48b820c5cac0b0de2e547f9c53246369
+    - e10c2d2e796624681d6ba6d17998a59a
+    - 589e5d2603dc6bbedc87891bf61ce4e7
+    - 468fd51289d8a211fe54b9228e69bcad
+    - e84baa51560375329c25f73eb91d4d40
+    - 6917f7ce7387642f179e7b23ca7992e3
+    - 809a51022109154c6d4185cd0c3cba49
+    - 4e6166531d182826ac2afc0f1b16c9d4
+    - f2f8fdb313dc2f0188c7f021e3145673
+    - e7bf418b98082f04935a7a5024edeb2a
+    - 7bd469d5f52fd022031d1f26d30c97c9
+    - 97ee0f2c8e96f7c250fb58771849eb12
+    - b87c3dd9dbe350f197d24d2a27b7ee8c
+    - 6615e7b81022152ce1eb98e7c324fe4d
+    - 5fe4e12530f678e78c213542480e663a
+    - 2ea0e3b964f047cc201c4ec0e8a85816
+    - d2817101db6fac14d973cab37df7b33b
+    - 71f154abfb26f02c8010cd5602bcfd69
+    - 1592260ae8b2a0a6beed3f9f122e7a28
+    - 575c08dd25273de2c32eeab6895fd64b
+    - f805db3ed291f3eeb1907a3a439a3c7f
+    - 34b364a873015da0830893fe49b5d80c
+    - 53869aa31ccd92865ab4b40838b746ac
+    - 6e5ac4753d20b690f8bd2a1c4955c222
+    - 5f7a7aa5e2a09e94dbd6bbbadac4675e
+    - 296cff4636144c04df96f957201dfb6c
+    - c670efbcee16118fcd6316e68e917ad0
+    - b6f17015eef022f10825853e43b8c147
+    - 19eab27e938f73413ba613f1d78e267f
+    - ef5865994ec53e11491227708aa7fa17
+    - af31e922ce56c9a80e7e980722926b9f
+    - 98f2408a2d8bebeaf71e245f0c4095b0
+    - bd7613b9d59cbf294d7d29ace04fe76d
+    - f17930b45e782d7510a32f8599631346
+    - 5942e1c1a28b84022caff9c2098442fc
+    - 3ec960b2f48843ffdb62f98f5ca4407d
+    - 43d805fc6eb69d4f23bd882707ade859
+    - fd7edd330ffe9660b7dac61ee248a537
+    - 1e8408572c01822f42509dcbbaf9ae45
+    - fbe255701061a72c9d3b890f8bf37230
+    - 2b6895cd1fbe5a02f0686a3b1726be1c
+    - 6ea7494c7e9213588d83d4cc05970d00
+    - 87dec49dc751ee3b5e8a3bff93aa3134
+    - 4e533b50438d9ce4a51f3ca470b99bbf
+    - e20de913d91f3cab3fede8ba06b7e98a
+    - 2407c1cff1fd59f873b2642891ba2c9b
+    - cbd2bbf9d7a54e2740d4dfc1fabc37ea
+    - 9e5c7969af8645596914974a75efee66
+    - c591422deb3883da06ebfa2299579f9e
+    - eaf5aa017a0c8befca40125deaa19116
+    - 7c79552fb037824d025b394b33f47b02
+    - 28b96a9afb1dd207f418172dc88a5213
+    - e6af93fe48078e5f88494dd26a220ff5
+    - d4c6aab45128ce081279bf29fe0935f5
+    - 0b03d91f58d062cae7212e244a484b35
+    - f2d94efee5d419d892150b918c7339a2
+    - b5d7852bbde8a5d90d5c8e055a0d6c6e
+    - 75ff091d4b4b77dca8115ab8f8a92de5
+    - 60cdb391213546f93b69fc10f531a6e8
+    - 09570a06dfaa62517ffa7c761dc1a376
+    - 90ec20c5f912b808b15902701301c8ee
+    - 6d5767bdb2af21900b2186172aae37bf
+    - f5efffd39d58f9afdfe19892c3f88e08
+    - 26d7ff4303208e2b16923ca8796f9d46
+    - 0fee9df1899ed1263478377e21f5a47f
+    - 5fe4e12530f678e78c213542480e663a
+    - 03f6f2e266a64b980ede409d92650e3c
+    - 7a4ea01547f975225c64ba9f028d8fa3
+    - f5cae349bc95c002a3f7cebcaf3ef987
+    - a721f5f74c2d2819d9cd222dad118045
+    - 093e4a4e138bcf88b423bd7652896119
+    - 1177c1288adc04fc7966f8acebbbfd73
+    - 5fe4e12530f678e78c213542480e663a
+    - ea3a9678d6e398a05637d9c6efa3be64
+    - 78a2691f4946973c449382e174e776cf
+    - 66df42fc65a422a903cd00a3fdaf429b
+    character: {fileID: 2365501589195664220, guid: 3b4c32be6c2e5354db26fd4eae77c509,
+      type: 3}
+    characterMd5: 2b0d317f92ce4cc4e3167467adb1fe17
+    characterBuildPath:
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/Material/yisheng/Default_Material.mat"
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/yisheng.fbm/yisheng-toufa.jpg"
+    - "Assets/Model/PreparationRoom/\u6234\u624B\u5957\u533B\u751F/MOV_DaiShouTao_YiSheng.fbx"
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/YiSheng_JTA.fbx"
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u52A8\u753B/\u533B\u751F\u6D17\u624B\u52A8\u753B.fbx"
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/Material/yisheng/lambert10.mat"
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/yisheng.fbm/yisheng-lian.jpg"
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/Material/yisheng/blinn1.mat"
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/Material/yisheng/ren_rrr2.mat"
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/Material/yisheng/lambert12.mat"
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/Material/yisheng/lambert11.mat"
+    - Assets/AnimatorController/DoctorWashHands.controller
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/yisheng.fbm/yisheng-yifu.jpg"
+    - "Assets/Model/PreparationRoom/\u6234\u53E3\u7F69\u533B\u751F/MOV_DaiKouZhao_YiSheng.fbx"
+    - "Assets/Model/InpatientWard/\u533B\u751F\u52A8\u753B/\u533B\u751F\u5411\u5BB6\u5C5E\u89E3\u8BF4.fbx"
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/Material/yisheng/ren_rrr23.mat"
+    - Assets/Prefabs/Scene/PreparationRoom/PreparationRoomCheracter.prefab
+    - "Assets/Model/PreparationRoom/\u4E03\u6B65\u6D17\u624B\u533B\u751F/yisheng.fbm/yisheng-yan.jpg"
+    characterBuildPathMd5:
+    - 63b0731505bee69875a79f5b5087d26d
+    - c5d3b034c5e5518dffd5d40a62777bca
+    - 29efae4acf5f7f1fb2ee1e45e9a4a08e
+    - d5969c030dcdc31879bd05abd70c5cf3
+    - f3b4b7011df25421ce44273b860dc26c
+    - a0354b641e3a4c834901f50fecaf05f8
+    - fb8a4fb2988d20a2bc5651dd452f82b5
+    - 7477f02e622897e01b11d37fd6cd2f6d
+    - 6fd1625f4ee7fb93e9743d6bd3de0d63
+    - dcdd359ddb954870b27ec9f18e860279
+    - df3631ef74b94a96e6835a5167c6a1bf
+    - 52e22890618d5daac4924954d6600e0b
+    - 63f36c772789d8382a497a462eee61ee
+    - ad47ec12e14a8fa4116bf1fe79380e17
+    - 3f00090def19119cc87f820d267c5755
+    - 8af542b58dbf575f73e844079dbd5791
+    - 2b0d317f92ce4cc4e3167467adb1fe17
+    - ce5848149f15e010646d36e0f484ebab
+    ui: {fileID: 5004150794685054806, guid: 2cd86b994868179419c0be2bc213620b, type: 3}
+    uiMd5: b8007b08ee7fd1f86b4994e418c56ee8
+    uiBuildPath:
+    - "Assets/Prefabs/UI/MaterialPreparation--\u7528\u7269\u51C6\u5907.prefab"
+    - "Assets/Audio/\u5411\u60A3\u8005\u6216\u5BB6\u5C5E\u89E3\u91CA\u7A7F\u523A\u76EE\u7684\u3001\u8FC7\u7A0B\u3001\u610F\u4E49\u7B49.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u7269\u54C1\u6846-\u5220\u9664.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u4E03\u6B65\u6D17\u624B\u6CD5-\u767D\u5E95.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u6570\u5B575.png"
+    - "Assets/Prefabs/UI/Tips--\u63D0\u793A.prefab"
+    - "Assets/Audio/\u65E0\u83CC\u5B54\u5DFE\u4E2D\u5FC3\u5BF9\u51C6\u7A7F\u523A\u70B9\uFF0C\u82E5\u60A3\u8005\u5728\u6E05\u9192\u72B6\u6001\u4E0B\u7A7F\u523A\uFF0C\u5219\u9700\u8981\u9010\u5C42\u5C40\u90E8\u6D78\u6DA6\u9EBB\u9189.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u786E\u5B9A-1.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u4E03\u6B65\u6D17\u624B\u6CD5-\u9ED1\u5E95.png"
+    - "Assets/Audio/\u533B\u751F\u6309\u7167\u4E03\u6B65\u6D17\u624B\u6CD5\u6D17\u624B.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u4E03\u6B65\u6D17\u624B\u6CD5-\u56FE2.png"
+    - Assets/Prefabs/UI/InpatientWardStep.prefab
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u6570\u5B572.png"
+    - "Assets/Audio/\u5728\u8FDB\u9488\u8FC7\u7A0B\u4E2D\u8FB9\u8FDB\u9488\u8FB9\u56DE\u62BD\u3002\u89C1\u5230\u56DE\u8840\u5373\u53EF\uFF0C\u8FDB\u9488\u6DF1\u5EA62-3\u5398\u7C73\u3002\u786E\u8BA4\u65B9\u5411\uFF0C\u89D2\u5EA6\u548C\u8FDB\u9488\u6DF1\u5EA6\uFF0C\u7136\u540E\u62D4\u51FA\u8BD5\u63A2\u9488.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u4E03\u6B65\u6D17\u624B\u6CD5-\u56FE3.png"
+    - "Assets/Audio/\u5982\u7A7F\u5165\u8FC7\u6DF1\u4ECD\u672A\u89C1\u56DE\u8840\uFF0C\u9488\u5C16\u53EF\u80FD\u5DF2\u7ECF\u7A7F\u900F\u8D2F\u901A\u9888\u90E8\u5185\u9759\u8109\uFF0C\u6B64\u65F6\u5E94\u6162\u6162\u9000\u9488\uFF0C\u8FB9\u9000\u9488\u8FB9\u56DE\u5438.mp3"
+    - "Assets/Prefabs/UI/WashHandsStep--\u4E03\u6B65\u6D17\u624B.prefab"
+    - "Assets/Audio/\u9888\u5185\u9759\u8109\u7A7F\u523A\u3001\u7F6E\u7BA1\u53EF\u91C7\u7528\u524D\u8DEF\u3001\u4E2D\u8DEF\u548C\u540E\u8DEF\u3002\u867D\u7136\u8FDB\u8DEF\u5404\u6709\u4E0D\u540C\uFF0C\u4F46\u64CD\u4F5C\u6280\u672F\u57FA\u672C\u4E0A\u662F\u4E00\u81F4\u7684\u3002\u73B0\u4EE5\u53F3\u9888\u5185\u9759\u8109\u4E2D\u8DEF\u63D2\u7BA1\u6280\u672F\u4E3A\u4F8B\u52A0\u4EE5\u8BF4\u660E.mp3"
+    - "Assets/Audio/\u6CE8\u5C04\u5668\u62BD\u53D6\u809D\u7D20\u7A00\u91CA\u6DB2\u6CE8\u5165\u7559\u7F6E\u7BA1.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u8DF3\u8FC7/\u8DF3\u8FC7-2.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u4E03\u6B65\u6D17\u624B\u6CD5-\u56FE6.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/6\u77E5\u60C5\u540C\u610F\u4E66/\u786E\u5B9A-1.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u4E03\u6B65\u6D17\u624B\u6CD5-\u56FE5.png"
+    - "Assets/Audio/\u8BF7\u5BB6\u5C5E\u7B7E\u7F72\u77E5\u60C5\u540C\u610F\u4E66.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u8DF3\u6B65/\u5927\u6B65\u9AA4-\u5173\u95ED\u5217\u8868-1.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u7BAD\u5934.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u8DF3\u6B65/\u5C0F\u6B65\u9AA4-1.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u8DF3\u6B65/\u5C0F\u6B65\u9AA4-3.png"
+    - "Assets/Audio/\u64CD\u4F5C\u8005\u6D17\u624B\uFF0C\u6234\u5E3D\u5B50\u3001\u53E3\u7F69\u548C\u65E0\u83CC\u624B\u5957;\u52A9\u624B\u534F\u52A9\u60A3\u8005\u4F53\u4F4D\u6446\u653E\uFF0C\u89C2\u5BDF\u7A7F\u523A\u8FC7\u7A0B\u4E2D\u60A3\u8005\u60C5\u51B5\u7B49.mp3"
+    - "Assets/Prefabs/UI/MaterialPreparationItem--\u7528\u7269\u51C6\u5907UI\u5757.prefab"
+    - "Assets/Audio/\u9000\u51FA\u5BFC\u5F15\u94A2\u4E1D.mp3"
+    - "Assets/Audio/\u60A3\u8005\u53D6\u4EF0\u5367\u4F4D\u3001\u5934\u4F4E15\xB0\uFF5E20\xB0\uFF0C\u53F3\u80A9\u80CC\u90E8\u7565\u57AB\u9AD8\uFF0C\u5934\u7565\u8F6C\u5411\u5DE6\u4FA7\uFF0C\u4F7F\u9888\u90E8\u4F38\u5C55.mp3"
+    - "Assets/Audio/\u6CE8\u5C04\u5668\u56DE\u62BD\u5BFC\u7BA1\u5185\u8840\u6DB2\u901A\u7545\uFF0C\u8BF4\u660E\u5BFC\u7BA1\u5728\u9759\u8109\u5185\uFF0C\u5E76\u4F7F\u7528\u809D\u7D20\u7A00\u91CA\u6DB2\u5C01\u7BA1\uFF0C\u76D6\u4E0A\u809D\u7D20\u5E3D.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u7269\u54C1\u6846.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u8DF3\u6B65/\u5927\u6B65\u9AA4-\u5C55\u5F00\u5217\u8868-1.png"
+    - "Assets/Audio/5ML\u6CE8\u5C04\u5668\u7A7F\u523A\u9488\u62BD\u53D6\u809D\u7D20\u7A00\u91CA\u6DB2\u5907\u7528.mp3"
+    - "Assets/Audio/\u5BFC\u5F15\u94A2\u4E1D\u8FBE\u523030cm\u540E\uFF0C\u76F8\u5BF9\u56FA\u5B9A\u201CJ\u201D\u578B\u94A2\u4E1D\uFF0C\u9000\u51FA\u7A7F\u523A\u9488\uFF0C\u538B\u8FEB\u7A7F\u523A\u70B9.mp3"
+    - "Assets/Audio/\u9009\u62E9\u6D88\u6BD2\u5237.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u6570\u5B574.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u63D0\u793A/\u63D0\u793A\u56FE\u6807.png"
+    - "Assets/Audio/\u76EE\u7684.mp3"
+    - Assets/XxSlitFrame/Font/fontzipMin.ttf
+    - "Assets/Prefabs/UI/WashHandsSkip--\u4E03\u6B65\u6D17\u624B\u8DF3\u8FC7.prefab"
+    - "Assets/Audio/\u9002\u5E94\u8BC1.mp3"
+    - Assets/Prefabs/Scene/PreparationRoom/PreparationRoomUI.prefab
+    - "Assets/Audio/\u63D2\u5165\u8FC7\u7A0B\u5982\u6709\u963B\u529B\u8981\u91CD\u65B0\u8C03\u6574\u4F4D\u7F6E\uFF0C\u4E14\u4E0D\u53EF\u5F3A\u884C\u63D2\u5165\uFF0C\u6B64\u65F6\u5E94\u6CE8\u610F\u5BFC\u5F15\u94A2\u4E1D\u8FDB\u5165\u4F53\u5185\u7684\u957F\u5EA6\u6700\u597D\u4E0D\u8981\u8D85\u8FC715CM\uFF0C\u4EE5\u9632\u5BFC\u5F15\u94A2\u4E1D\u523A\u6FC0\u5FC3\u810F\u51FA\u73B0\u5FC3\u5F8B\u5931\u5E38.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u6570\u5B571.png"
+    - "Assets/Audio/\u76AE\u80A4\u5165\u53E3\u5904\u7528\u7F1D\u7EBF\u56FA\u5B9A\u5BFC\u7BA1.mp3"
+    - "Assets/Audio/\u68C0\u67E5\u5BFC\u4E1D\u63A8\u8FDB\u5668\u662F\u5426\u987A\u7545.mp3"
+    - "Assets/Audio/\u4ECE\u7A7F\u523A\u9488\u5185\u63D2\u5165\u201CJ\u201D\u578B\u5BFC\u5F15\u94A2\u4E1D\u7EA630cm\uFF08\u5176\u4E2D\u7A7F\u523A\u9488\u53CA\u6CE8\u5C04\u5668\u603B\u957F\u7EA6\u4E3A20cm\uFF0C\u5BFC\u5F15\u94A2\u4E1D\u8FDB\u5165\u8840\u7BA1\u7EA610cm\uFF09\uFF0C\u63D2\u5165\u8FC7\u7A0B\u5E94\u6CE8\u610F\u5FC3\u5F8B\u53D8\u5316.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u786E\u5B9A-1.png"
+    - "Assets/Audio/\u4EE5\u7A7F\u523A\u70B9\u4E3A\u4E2D\u5FC3\uFF0C0.3%\u7898\u4F0F
+      \u6D88\u6BD2\u5C40\u90E8\u76AE\u80A4\u4E24\u904D\uFF0C\u6D88\u6BD2\u8303\u56F4\u4E0A\u81F3\u4E0B\u988C\u89D2\uFF0C\u4E0B\u81F3\u4E73\u5934\u6C34\u5E73\uFF0C\u5185\u4FA7\u8FC7\u80F8\u9AA8\u4E2D\u7EBF\uFF0C\u5916\u4FA7\u81F3\u814B\u524D\u7EBF.mp3"
+    - "Assets/Audio/\u6309\u8BD5\u7A7F\u9488\u7684\u89D2\u5EA6\uFF0C\u65B9\u5411\u53CA\u6DF1\u5EA6\u752818G\u7A7F\u523A\u9488\u8FDB\u884C\u7A7F\u523A\u3002\u8FB9\u8FDB\u9488\u8FB9\u56DE\u62BD\uFF0C\u56DE\u62BD\u5230\u9C9C\u7EA2\u8840\u6DB2\u65F6\uFF0C\u4E14\u56DE\u62BD\u548C\u6CE8\u5165\u5341\u5206\u901A\u7545\u65F6\uFF0C\u53EF\u4EE5\u786E\u8BA4\u7A7F\u523A\u9488\u5728\u9759\u8109\u5185\uFF0C\u6CE8\u610F\u56FA\u5B9A\u597D\u7A7F\u523A\u9488\u4F4D\u7F6E.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/8\u7A7F\u523A\u89D2\u5EA6\u53CA\u5256\u9762/\u9519\u8BEF\u63D0\u793A.png"
+    - "Assets/Audio/\u5E38\u89C1\u5E76\u53D1\u75C7.mp3"
+    - "Assets/Audio/\u524D\u8DEF\u7A7F\u523A\u70B9\u4E00\u822C\u9009\u62E9 \u80F8\u9501\u4E73\u7A81\u808C\u7EC8\u70B9\u5185\u4FA7\u7F18\uFF0C\u9888\u603B\u52A8\u8109\u5916\u4FA7.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u8DF3\u6B65/\u5927\u6B65\u9AA4-1.png"
+    - Assets/XxSlitFrame/Font/GeneralUI.ttf
+    - "Assets/Audio/\u7981\u5FCC\u8BC1.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u9519\u8BEF\u63D0\u793A.png"
+    - "Assets/Audio/\u94FE\u63A5\u4E2D\u5FC3\u9759\u8109\u6D4B\u538B\u7BA1\u6216\u8005\u8F93\u6DB2\u88C5\u7F6E.mp3"
+    - "Assets/Audio/\u6E05\u7406\u76AE\u80A4\u540E\uFF0C\u8D34\u65E0\u83CC\u6577\u8D34.mp3"
+    - "Assets/Audio/\u4F7F\u75285ml\u6CE8\u5C04\u5668\u4F5C\u4E3A\u8BD5\u63A2\u9488\uFF0C\u9488\u4E0E\u76AE\u80A4\u544830\xB0\uFF5E45\xB0\u89D2\uFF0C\u9488\u5C16\u6307\u5411\u540C\u4FA7\u4E73\u5934\u6216\u9501\u9AA8\u4E2D\u3001\u51851
+      3\u4EA4\u754C\u5904.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u63D0\u793A/\u64CD\u4F5C\u63D0\u793A\u6846.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u6570\u5B573.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u9888\u5185\u9759\u8109\u7A7F\u523A\u3001\u7F6E\u7BA1-\u8BF4\u660E\u5E95.png"
+    - "Assets/Audio/\u6CE8\u610F\u4E8B\u9879.mp3"
+    - "Assets/Audio/\u8BF7\u4ECE\u7269\u54C1\u67DC\u5185\u9009\u62E9\u672C\u6B21\u64CD\u4F5C\u6240\u9700\u7269\u54C1.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u8DF3\u8FC7/\u8DF3\u8FC7-1.png"
+    - "Assets/Audio/\u64CD\u4F5C\u5B8C\u6BD5\u540E\u534F\u52A9\u75C5\u4EBA\u6062\u590D\u8212\u9002\u4F53\u4F4D\uFF0C\u6574\u7406\u5E8A\u5355\u4F4D\uFF0C\u5904\u7406\u7528\u7269\uFF0C\u62CD\u6444X\u7EBF\u7247\u786E\u5B9A\u5BFC\u7BA1\u4F4D\u7F6E\u4E0E\u8D70\u5411.mp3"
+    - "Assets/Audio/\u7F6E\u5165\u76AE\u80A4\u6269\u5F20\u5668\uFF0C\u6269\u5F20\u5C40\u90E8\u76AE\u80A4\u4E0E\u76AE\u4E0B\u7EC4\u7EC7.mp3"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u4E03\u6B65\u6D17\u624B\u6CD5-\u56FE4.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u6570\u5B576.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u5E95\u6846.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u4E03\u6B65\u6D17\u624B\u6CD5-\u56FE7.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u4E03\u6B65\u6D17\u624B\u6CD5-\u56FE1.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/4\u7269\u54C1\u9009\u62E9/\u7269\u54C1\u9009\u62E9-\u9898\u76EE\u5E95.png"
+    - "Assets/UI/\u52A8\u8109\u7A7F\u523A-\u56FE\u7247/\u6D17\u624B\u987A\u5E8F\u9009\u62E9/\u6570\u5B577.png"
+    - "Assets/Audio/\u6CBF\u5BFC\u5F15\u94A2\u4E1D\u5957\u5165\u4E2D\u5FC3\u9759\u8109\u5BFC\u7BA1\uFF0C\u8FB9\u9000\u94A2\u4E1D\uFF0C\u8FB9\u63A8\u8FDB\u5BFC\u7BA1\uFF0C\u5230\u8FBE\u4E0A\u8154\u9759\u8109\u4E0E\u53F3\u5FC3\u623F\u7ED3\u5408\u5904\u4E3A\u5B9C\uFF0C\u6210\u4EBA\u7F6E\u7BA1\u7684\u6DF1\u5EA6\u4E3A12~15cm.mp3"
+    uiBuildPathMd5:
+    - e6f202cf8fd232e748c338039b61f47a
+    - a62e65fc22ae49420aff93ef29c903bd
+    - c93d553abf6f05fd5559c1a953405941
+    - de3ad7a7f2a6dde748f69f72be4dac7d
+    - b9952e16e9263dc50cd28cb4814967ac
+    - 79a05069024ec8a79465149c1beca546
+    - 53f0a3c39f854d2878866985ae6858ba
+    - 87c600572bb81b0fbb24fb8f51b1bf5b
+    - 93c04af9394ef85cf855a46e60d6d848
+    - a42ac23703e2eca0d8d7cc56ed4eedad
+    - 0be5df524f76ffdc6e68241636068120
+    - eaf07efb0ddc5e38c622caf23569f677
+    - e4d6012ec14f80cce5de67ea412eca95
+    - 7d868ab188d179a7a39d8841de453725
+    - 402b1e510f242da47a96065d9e35767e
+    - b102cfc9a54cf6a79042c7370e11eedd
+    - 0d12c5164b38c16c633f7a64f83b3c70
+    - 2828cd7d020c73c200547aa0e849ba55
+    - 230eb1cb6321accb1c9628ae0bbf8302
+    - f584e6980aef65040f0284e3105e70b3
+    - 951ea2f22b99d6db5e433dd8a07489b7
+    - 6d4d34173bdd7e829116ad1a28556805
+    - 854b8c98a6510a2de52fe3739ca28872
+    - 685a1598a2e39d1c0e1119728f25e7f6
+    - cfc8525146b005feb82a83b1ef7c4b03
+    - 9dafd22cd5c3a97d990069aad72ec1d4
+    - d4da586bff0db9ee8cb370cc2fb4d980
+    - 409cb53dbaab6b26087018fe23a2f89a
+    - 896728d5f0377b3ce987041746dbc8ce
+    - baa674ee97988bcfdca443e8e72a5264
+    - 893665c467aa536e705eaf97f15519ab
+    - f4acc6cc49e2c0ed28017c42f3b643bf
+    - 0a76e0ca2de5860e1a29445ed7178df9
+    - 2e0ae2e2d3f2b2075a7e46d4ab808d40
+    - edce544b622b4d8c2fbe368180fc4ab6
+    - 43e11aef998a5313bd423ef55a2b67cd
+    - 82908520676396d02ac96ba3ff27f34d
+    - ab7a14aec44705494ac513b051b53f24
+    - d8061a6099b989558f4d9cadc1687335
+    - 2ec190f9e95bbdb1270d0a6a17446f3e
+    - 611204304bca6acbdf8fff5583dd0961
+    - 4079373e68c60f1930aa9dcb93ff45aa
+    - 28c90b9ba7e57a841e88d2a04cbce49e
+    - cfbe50ac47457ba5b363ccbec940d716
+    - b8007b08ee7fd1f86b4994e418c56ee8
+    - 1f738a3c9ab774b0b956fc0f0029d209
+    - 3d8e09ea81b9d5fbce69a0ddab71b99b
+    - 67bd085c68cf4fc195c27c5bd63009b8
+    - 29c2c8b3e1a2a8cfe27bbefd2d281481
+    - b3cbaefdfaa4a6ddaea0d864c5e6a4ef
+    - 87c600572bb81b0fbb24fb8f51b1bf5b
+    - c54086db445c34b6ff48b3f9717cc74b
+    - b725aad813ec8a861c41f08df1e5c3a5
+    - 929e632ada58b979cce44a45ff83a36c
+    - 0ca6d30700457c959029ae592c4e654f
+    - e20ba79f669fa3c6a03a1c4e876335c1
+    - 3901844f592a295ae277bf453bd25647
+    - 81c4cf4e9e501f7af84bc3aa56757090
+    - 7ef9754ddb02862f32be5eab30073427
+    - d56e5cca7fa9d2e9a86dada0e983721f
+    - b878619fbea0abc5f39d5b81f9797c03
+    - fcd32819e51974229472b110a227c5dd
+    - ba5ee664695911f0eead67154ed7853a
+    - 6c95b8e6f95e09609a92fc64527a0561
+    - 3cd0ff3ec7ba3552aaccce2c1fcf821e
+    - 93453227f6845f8a97feeeb443c2d02e
+    - 94eef01cd3736c9a9a9b6340190307e8
+    - 163beed2653debdad1091c0703270b18
+    - 8e8d8cb35fc825cebf28a6d60be12ce3
+    - 3e81e71a9a1d3a2158c85c62ba0fe394
+    - 88b04c0ffda356380a18005f61e5e32b
+    - 127cf66635c3ae33254afbfc8f06e9b9
+    - 79f400bba6f5c8b63b5432f532eb4704
+    - f43e72dbbdbde6ba5c87a5f7d7c128f6
+    - 7fc48057956ba96eb6e7d64112fed846
+    - 80747af3e92f371e83ab2ff252125de3
+    - 0a43bbf29e51e1f25ed68fa187b34372
+    - da2424de9c5c075a2219d3ab03f01c62
+    - dd2bca493c9a7a8556acd0a504ce3aac
+    function: {fileID: 981935193610414570, guid: af85aee7e2d26c24faf48cf1ee0d5224,
+      type: 3}
+    functionMd5: b928fec9122314c58f07bea7b98f7a02
+    functionBuildPath:
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_2.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/FinalPass.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Waveform.compute
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Uber.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Texture3DLerp.compute
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_23.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_36.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_61.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStd.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_55.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Bloom.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_30.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_8.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_5.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_0.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStdFromDoubleWide.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_2.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_19.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_20.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_10.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVOUpsample.compute
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_6.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_44.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Vectorscope.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/GaussianDownsample.compute
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_54.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_4.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_3.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_48.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_50.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_37.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_42.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DepthOfField.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_6.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_29.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_14.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DiscardAlpha.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_45.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_40.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_0.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut3DBaker.compute
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_51.png
+    - Assets/XxSlitFrame/Prefabs/Tools/CameraTools.prefab
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_35.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_21.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_53.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/GrainBaker.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/LightMeter.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_33.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_34.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_3.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_4.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample2.compute
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_49.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_1.png
+    - Assets/Prefabs/Scene/PreparationRoom/PreparationRoomFunctionalGroup.prefab
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_24.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_7.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample1.compute
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVO.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_25.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_27.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_15.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVORender.compute
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/SMAA/SearchTex.tga
+    - Assets/XxSlitFrame/Prefabs/Tools/AnimatorControllerManager.prefab
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_5.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ScalableAO.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_59.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MotionBlur.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/SubpixelMorphologicalAntialiasing.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Texture2DLerp.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/SMAA/AreaTex.tga
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DeferredFog.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_13.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_38.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_62.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_1.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_28.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_43.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStdFromTexArray.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut2DBaker.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_12.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_32.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/AutoExposure.compute
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Overlays.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_47.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_63.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Vectorscope.compute
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/TemporalAntialiasing.shader
+    - Assets/XxSlitFrame/Prefabs/Tools/PropManager.prefab
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ScreenSpaceReflections.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_41.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Copy.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_58.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_16.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_31.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_17.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_9.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_18.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_57.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Waveform.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_7.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_46.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_60.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_11.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_52.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_26.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_22.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_39.png
+    - Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_56.png
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Histogram.compute
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Histogram.shader
+    - Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ExposureHistogram.compute
+    functionBuildPathMd5:
+    - 6190fcaf5d67cff9b2fcd10f1121acb8
+    - 3aff06fed81a1a9e12cdb10146fcc300
+    - af172061e59389d7f609f42e87f00b1b
+    - 02b476f627e0784d088336b90d1f2064
+    - 3de0593dc92e8d7c404a62cd3b0c9c0f
+    - d0de0cc294ffced2c4b34221c3e09fa3
+    - f3c42fa764272bf5a5078186dbd1552c
+    - b456cd9f4b817b460b6d476fc205f781
+    - 9b24e58b43a846037e09ffa35e2fb027
+    - ec6250009f35a66f774365e17b8ba835
+    - 185167cd0f2d6fd49b1de1c87a54fba5
+    - 36abf6ca370fb41bbe3b556e976c7345
+    - 68002e15f3c7bcf282c334d4455feedf
+    - f8b1d7ee552fd30791f8727011d2508c
+    - 65b063168317bdd54a8c18e0ff0096bc
+    - defaf6f67b52f2c3135301bba2373489
+    - 817dc09bd0a82d7996d88270e1313000
+    - b291a2cc596ac834bab5b1c4bceac3c6
+    - a99cb1943c5fd16b541efca18fcc4bb6
+    - 35f8d6dcc6300a64316205364fe5de25
+    - d1306c495c920e9312f83a1185ccc9f2
+    - faaad79098c7882796bfdc452abd8b07
+    - a9c1b981cedc1746a889be6e4f2984e7
+    - 19b87471933a7158944de6f6bed340ca
+    - 6e39f7c793c8155811b859d5a09208fe
+    - 5d7f43d9a8d632e0f69efd756445c783
+    - 1d083f8d911fa9cee03021347a5f8ec8
+    - 5c763e2935cf04dda518d52f21afeeb9
+    - 7c1f7c074e8bf977badb55b694fa96a3
+    - 330738e27838ade475152be62cef01e9
+    - feba79918a65a6406183b9e562af85fc
+    - 30b9e2b40521d1c8538c6fb57ce20b86
+    - 732a1976f0abc9ee4a0874ee8aacb597
+    - ae2fa3d85000d789f9f07c2ae0aa1e3c
+    - 358f7156abd78802e626e045ce4c57f6
+    - 0cef3996bf96bb0896bc8347aa3a0738
+    - 13ae4f2f1920b5f36b9704db2cd15fd4
+    - 64a357f37f23c0e94d76f6470378dabe
+    - 3643584a3110ab7bdbef15859029ba9d
+    - 26f4d636cf60a5e75c188a2fddfdd572
+    - 5e55d6d672d5c5454fea8f4e0b881bcf
+    - eade6fe31fa9544d9e65377eea14d1fa
+    - 0fe8a96394e4ec232e658d8313cc97a2
+    - 94bbe19053e88da4a8546455018eb9ad
+    - 98d11674b5b279fcdee036465f5634be
+    - 21f0b1ddaa1ec2afccf6eba855044703
+    - 0bb51c5b92c9e0c535fc1f09cc41bbea
+    - c63cd0619cd4d70b101a4e2888c0102d
+    - 5c8a46012c2244297a995b60a1d3ec83
+    - c46ba1016697baefa4aac101a8a22ee3
+    - 4519dd40d70f1778a0e744a305ce297e
+    - 4f49fda99d08dc2d5b918497f8e58819
+    - c4df94369a554bf6337995b8566f873b
+    - 0e209d6c376b6fa0bccf77d2e18fdbab
+    - 6c88af38691ed0d8943c576c43284b9d
+    - b928fec9122314c58f07bea7b98f7a02
+    - 0bb7f32aac221cda8e799d6dd6649e48
+    - ff23267eddd82388d9d508daec629049
+    - d6b05efc6fea4dc6d2bee4c37efec376
+    - bfbcfdf5e9f1da478e83cce6c3bd5d2a
+    - c8f0b24753dad3915f84e3cf13b8ee26
+    - e3d6be197d1879e4f3dfc23e7adb1395
+    - 2f1c8a45000e3aa33ecf00af9dd2b037
+    - 395ec38d4d2be85e91958e69d722a663
+    - bdee1cb675f2e8cae6e8c4d96668c52c
+    - 44d0debcbf94eecda67c32c036a41edf
+    - 977d710d04dd22ef19cfa7df30b56eed
+    - 3f1bf1cabecbfbad5b12bc9477944f8a
+    - d566eae03f086d171bd260da11f850bf
+    - dfcc3b834962b0af86d0b3943bccb7f0
+    - 73d00c035fe483fd216a124126109f43
+    - 293a1f01b3dd7b4f7775b54bd6efd18d
+    - a0ab8e28e2c4e1dad7371ef0dec11a9e
+    - b47bf97ab639ff88b4dc34a254232db9
+    - f915d6a4aec28b833ef4597d8db389fc
+    - 3eb7ba4efce32e9099b79a52947b33e1
+    - 283e0bc2effb2d1b3b91373233a6d4e6
+    - bfc00f0dbd7a55f10c61a0b45c8f78ee
+    - b7ddfb7868cb06fe4c5f9bf787b609d6
+    - 14497e4bd34abba49e7e40e02bb1b891
+    - 4b5a689670f8d34d09ab0f7974437797
+    - 9626be360d7c6b0690b50978caea17d0
+    - fb59f871553bac02b65eef4be3b5b26a
+    - 71827a9c32654d1357ef3715785dcea1
+    - 94bfa4677d7fc00e7faf83b197d7d24f
+    - a1228ceb1fbd0471aaf7da285a638422
+    - b0eda48038eac3b2cbf54eb2a93219e1
+    - 48b7f731b1d30b08abc807c550e3edcf
+    - 70bb8dd7b4e9a9ea83eea505d093b01f
+    - 8b0658dd774fa037c688174856c64ad6
+    - bbdafc1acb1a8063056475b445ca06af
+    - 5d3fb274e9198e64835341ef6a0d3668
+    - 093e30ff963488bfcb267593d3d9c5bf
+    - 5b01e3aa0bd015f60b6ce547712e47c9
+    - 99bd75b8b27cbf173c6ae2dcf375e4ed
+    - c2ff721f8c467ff0510e083f98ac5393
+    - cc7be40577626457b53679d9640b3a81
+    - 7ae113c1d42e316691a3332db0281193
+    - 8b4150d7103b3587168cf2dc32a171a2
+    - a6aab253ee1b40b5ad1af0284e35f76c
+    - 58dba391f6815f566b7ca837280b5137
+    - 4d7b54912e6129e1a4a1f649fff27a7a
+    - eb45d20263425a86e03e347d2b792455
+    - 9d35248978363eabb8e398c39a1fdb45
+    - dc13d2598ab7a1bc32e0cd4dd41e4aca
+    - a8cc8b55d3643470081608adc697041a
+    - ed85d41013bb6d5bc6887019645d0c9d
+    - e749ec1c2b91a5e76ee989f87a65b7b9
+    - 7c14a72357df053587cb396ddda37e8d
+    - 3913fa680ca5511b63d7a29e81b58d21
+    - 4ba35fee99201b934d4ac40ce3951166
+    - 927fb17fbf6ee8885fa12cbce9f6954b
+    - 357713704f4b3b2d9586e7dc685306d9
+    - fb4b728bc6f753588d4f965caff481cd
